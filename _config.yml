@@ -1,6 +1,6 @@
 # main text of home
-name: Minjeong MJ Kang
-bio: Learning and
+name: Minjeong Kang
+bio: Forever Young
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -55,8 +55,8 @@ email: minjeongandk@gmail.com
 
 authors:
     mjkang:
-        name: Minjeong MJ Kang
-        bio: Space, the final frontier
+        name: Minjeong Kang
+        bio: Forever Young
         external-image: false
         picture: assets/images/profile.png
         github: h1m4

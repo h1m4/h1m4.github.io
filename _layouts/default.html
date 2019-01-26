@@ -8,16 +8,17 @@ layout: compress
     {% if site.analytics-google %}
         {% include analytics-google.html %}
     {% endif %}
-
+<meta name="google-site-verification" content="ahK6APP8qS_XC1bZTUPzWc5zIeckDyM5LkwBlX4aNZg" />
     <meta charset="utf-8">
     <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
     <meta name=viewport content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
 
     <meta name=description content="{{ site.bio }}">
     <meta name=author content="{{ site.name }}">
 
     {% seo %}
-    
+
     {% include favicon.html %}
 
     <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">

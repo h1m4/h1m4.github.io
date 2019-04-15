@@ -17,6 +17,7 @@ layout: page
 </ul>
 
 <h2>Published</h2>
+
 <ul>
 	<li><a href="https://ridibooks.com/v2/Detail?id=2773000021&_s=search&_q=%EC%BD%94%EB%94%A9%20%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0%20%EC%84%9C%EB%B9%84%EC%8A%A4%20%EB%9F%B0%EC%B9%AD%EA%B9%8C%EC%A7%80%20JEJU%20CODING%20BASECAMP">코딩 기초부터 서비스 런칭까지 JEJU CODING BASECAMP</a></li>
 	<li><a href="https://ridibooks.com/v2/Detail?id=2773000015&_s=search&_q=%EC%B6%9C%ED%8C%90%EC%82%AC%3A%EC%82%AC%EB%8F%84%EC%B6%9C%ED%8C%90">타노스의 건틀릿 알고리즘 With Python</a></li>

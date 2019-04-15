@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-I majored in electrical engineering at Jeju National University.
+
 
 
 <h2>Projects</h2>

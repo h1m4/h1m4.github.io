@@ -10,9 +10,9 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://h1m4.github.io/KEPCO-bussiness-idea-hackathon/">FrontEnd&DataCrawling</a></li>
-	<li><a href="https://github.com/h1m4/parkinglot_share">UIUX Design&Frontend</a></li>
-	<li><a href="https://github.com/h1m4/blockchain">Blockchain&Frontend</a></li>
+	<li><a href="https://h1m4.github.io/KEPCO-bussiness-idea-hackathon/">Front End & DataCrawling</a></li>
+	<li><a href="https://github.com/h1m4/parkinglot_share">UIUX Design & Front end</a></li>
+	<li><a href="https://github.com/h1m4/blockchain">Blockchain & Front end</a></li>
 	<li><a href="https://github.com/h1m4/capstone_design_2018">IoT Project with Arduino and AppInventor</a></li>
 </ul>
 
@@ -23,9 +23,9 @@ layout: page
 	<li><a href="https://ridibooks.com/v2/Detail?id=2773000011&_s=search&_q=%EC%BD%94%EB%94%A9%EB%8F%84%EC%9E%A5%20%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC%EB%A1%9C%20%EB%B0%B0%EC%9A%B0%EB%8A%94%20Python%20%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4">코딩도장 튜토리얼로 배우는 Python 문제풀이</a></li>
 </ul>
 
-	<h2>Experience</h2>
+<h2>Experience</h2>
 <ul>
-	<li><a>Staff :  PyCon 2018 YoungCoder</a></li>
-	<li><a>Mentor : JDC 4.0 Industry Camp</a></li>
-	<li><a>Staff : Kakao Coding Camp</a></li>
+	<li>Staff :  PyCon 2018 YoungCoder</li>
+	<li>Mentor : JDC 4.0 Industry Camp</li>
+	<li>Staff : Kakao Coding Camp</li>
 </ul>

@@ -24,8 +24,8 @@ layout: page
 </ul>
 
 	<h2>Experience</h2>
-	<ul>
+<ul>
 	<li><a>Staff :  PyCon 2018 YoungCoder</a></li>
 	<li><a>Mentor : JDC 4.0 Industry Camp</a></li>
 	<li><a>Staff : Kakao Coding Camp</a></li>
-	</ul>
+</ul>

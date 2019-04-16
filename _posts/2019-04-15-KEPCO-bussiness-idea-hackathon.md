@@ -1,5 +1,5 @@
 ---
-title: "KEPCO BUSSINESS IDEA HAKATHON"
+title: "KEPCO BUSSINESS IDEA HAKATHON (AWARDED)"
 layout: post
 date: 2019-04-15 22:48
 image: /assets/images/markdown.jpg
@@ -8,7 +8,7 @@ tag:
 - hackathon
 - frontend
 - bigdata
-category: projects
+category: blog
 author: Minjeong Kang
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
